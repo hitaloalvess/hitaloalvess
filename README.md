@@ -32,9 +32,9 @@
 
 <br>
 
-###I am interested:
--<img alt="TypesCript" title="TS" height="20" width="20" src="https://user-images.githubusercontent.com/57419630/122698162-24e7fd00-d21d-11eb-943b-89e700baa1ee.png">
--<img alt="Sass" title="Sass" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" />
+### I am interested:
+-<code><img alt="TypesCript" title="TS" height="40" width="40" src="https://user-images.githubusercontent.com/57419630/122698162-24e7fd00-d21d-11eb-943b-89e700baa1ee.png"></code>
+-<code><img alt="Sass" title="Sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" /></code>
 
 <br>
 <details>
