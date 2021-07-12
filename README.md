@@ -23,8 +23,8 @@
 
 ### :books: Atualmente estudando:
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> Javascript
-- <img src="https://img.shields.io/badge/HTML5-fff?logo=html5&logoColor=red" /> HTML
-- <img src="https://img.shields.io/badge/CSS3-fff?logo=css3&logoColor=blue" /> CSS
-- <img src="https://img.shields.io/badge/React-fff?logo=react&logoColor=61DAFB" /> React
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/> HTML
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/> CSS
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> React
 - <img src="https://img.shields.io/badge/TypeScript-fff?logo=typescript&logoColor=blue" /> Typescript
 
