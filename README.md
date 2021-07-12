@@ -22,10 +22,10 @@
 
 
 ### :books: Atualmente estudando:
-- Javascript [JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+- Javascript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 - HTML
 - CSS
 - React
--Typescript
+- Typescript
 - Next
 
