@@ -4,6 +4,11 @@
 - 🌱 Currently focused on improving my skills in the Javascript ecosystem
 - 🔭 In a constant search for evolution and improvement as a dev
 
+📫 Reach me out 👇
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardoalvespaula/)](https://www.linkedin.com/in/ricardoalvespaula/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ricardoalvespaula/)](https://www.instagram.com/ricardoalvespaula/)
+
 ## 🚀💻 Technologies & Tools
  
 <p >
