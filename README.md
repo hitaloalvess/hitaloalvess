@@ -17,7 +17,6 @@
 <p >
 
 <code><img alt="JavaScript" title="JS" height="48" src="https://user-images.githubusercontent.com/57419630/122698166-26b1c080-d21d-11eb-86e2-ccadcc205b50.png"></code>
-<code><img alt="TypesCript" title="TS" height="48" src="https://user-images.githubusercontent.com/57419630/122698162-24e7fd00-d21d-11eb-943b-89e700baa1ee.png"></code>
 <code><img alt="HTML" title="HTML" height="50" src="https://user-images.githubusercontent.com/57419630/124050480-050cc200-d9f1-11eb-9ad4-607de212ee0a.png"></code>
 <code><img alt="CSS" title="CSS" height="50" src="https://user-images.githubusercontent.com/57419630/124050477-0342fe80-d9f1-11eb-96b3-f935ebfc0924.png"></code>
 <code><img alt="React" title="React" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
@@ -31,6 +30,13 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/> CSS
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> React
 
+<br>
+
+###I am interested:
+-<img alt="TypesCript" title="TS" height="20" width="20" src="https://user-images.githubusercontent.com/57419630/122698162-24e7fd00-d21d-11eb-943b-89e700baa1ee.png">
+-<img alt="Sass" title="Sass" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" />
+
+<br>
 <details>
   <summary>:zap: Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitaloalvess&layout=compact&bg_color=ffffff&text_color=333333">
