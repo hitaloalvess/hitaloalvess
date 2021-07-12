@@ -2,7 +2,7 @@
  
 ## 🚀💻 Technologies & Tools
  
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/Windows-fff?logo=windows&logoColor=blue" />
   <img src="https://img.shields.io/badge/TypeScript-fff?logo=typescript&logoColor=blue" />
