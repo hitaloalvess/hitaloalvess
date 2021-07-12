@@ -9,8 +9,8 @@
 
 📫 Reach me out 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardoalvespaula/)](https://www.linkedin.com/in/ricardoalvespaula/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ricardoalvespaula/)](https://www.instagram.com/ricardoalvespaula/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hitalo-alves/)](https://www.linkedin.com/in/hitalo-alves/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hitaloalvees/)](https://www.instagram.com/hitaloalvees/)
 
 ## 🚀💻 Technologies & Tools
  
