@@ -22,10 +22,9 @@
 
 
 ### :books: Atualmente estudando:
-- Javascript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-- HTML
-- CSS
-- React
-- Typescript
-- Next
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> Javascript
+- <img src="https://img.shields.io/badge/HTML5-fff?logo=html5&logoColor=red" /> HTML
+- <img src="https://img.shields.io/badge/CSS3-fff?logo=css3&logoColor=blue" /> CSS
+- <img src="https://img.shields.io/badge/React-fff?logo=react&logoColor=61DAFB" /> React
+- <img src="https://img.shields.io/badge/TypeScript-fff?logo=typescript&logoColor=blue" /> Typescript
 
