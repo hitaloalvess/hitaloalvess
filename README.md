@@ -1,9 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Hitalo Rodrigo Alves!</h1>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hitalo-alves/)
-[![Instagram Badge](https://img.shields.io/badge/-hitalo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hitaloalvees/?hl=pt-br)](https://www.instagram.com/hitaloalvees/)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:hitalo.ralves@outlook.com)](mailto:hitalo.ralves@outlook.com)
-
  
 ## 🚀💻 Technologies & Tools
  
@@ -28,3 +23,10 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> React
 - <img src="https://img.shields.io/badge/TypeScript-fff?logo=typescript&logoColor=blue" /> Typescript
 
+<br>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/hitalo-alves/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hitaloalvess" height="20" width="20" /></a
+<a href="https://www.instagram.com/hitaloalvees/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hitaloalvess" height="20" width="20" /></a>
+</p>
