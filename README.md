@@ -1,5 +1,11 @@
-<h3 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Hitalo Rodrigo Alves!</h3>
+<h3>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Hitalo Rodrigo Alves!</h3>
  
+- Desenvolvedor Front End em desenvolvimento
+
+- Focado atualmente em melhorar minhas habilidades no ecossistema Javascript
+
+- Em uma busca constante por evolução e aperfeiçoamento como dev
+
 ## 🚀💻 Technologies & Tools
  
 <p >
