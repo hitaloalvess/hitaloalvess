@@ -4,6 +4,9 @@
 - 🌱 Currently focused on improving my skills in the Javascript ecosystem
 - 🔭 In a constant search for evolution and improvement as a dev
 
+### :mortar_board: Academic Formation
+- Instuto Federal de São Paulo - Campus Votuporanga
+
 📫 Reach me out 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardoalvespaula/)](https://www.linkedin.com/in/ricardoalvespaula/)
@@ -23,6 +26,7 @@
   <img src="https://img.shields.io/badge/More...-fff" />
 
 </p>
+
 
 
 ### :books: Estudando e aperfeiçoando:
