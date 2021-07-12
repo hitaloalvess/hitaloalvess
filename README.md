@@ -7,6 +7,8 @@
 ### :mortar_board: Academic Formation
 - Análise e Desenvolvimento de Sistemas || Instuto Federal de São Paulo - Campus Votuporanga
 
+<br>
+
 ## 🚀💻 Technologies & Tools
  
 <p >
@@ -29,6 +31,8 @@
 <code><img alt="TypesCript" title="TS" height="40" width="40" src="https://user-images.githubusercontent.com/57419630/122698162-24e7fd00-d21d-11eb-943b-89e700baa1ee.png"></code>
 <code><img alt="Sass" title="Sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" /></code>
 
+<br>
+
 <details>
   <summary>:zap: Languages Used</summary>
  
@@ -45,6 +49,7 @@
 </table>
 </details>
 
+<br>
 ## 📫 Reach me out 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hitalo-alves/)](https://www.linkedin.com/in/hitalo-alves/)
