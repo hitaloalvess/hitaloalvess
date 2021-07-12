@@ -16,14 +16,10 @@
  
 <p >
 
-<img src="https://img.shields.io/badge/Windows-fff?logo=windows&logoColor=blue" />
-  <img src="https://img.shields.io/badge/TypeScript-fff?logo=typescript&logoColor=blue" />
-  <img src="https://img.shields.io/badge/JavaScript-fff?logo=javascript&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/HTML5-fff?logo=html5&logoColor=red" />
-  <img src="https://img.shields.io/badge/CSS3-fff?logo=css3&logoColor=blue" />
-  <img src="https://img.shields.io/badge/React-fff?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-fff?logo=postgresql&logoColor=blue" />
-  <img src="https://img.shields.io/badge/More...-fff" />
+<code><img alt="JavaScript" title="JS" height="48" src="https://user-images.githubusercontent.com/57419630/122698166-26b1c080-d21d-11eb-86e2-ccadcc205b50.png"></code>
+<code><img alt="TypesCript" title="TS" height="48" src="https://user-images.githubusercontent.com/57419630/122698162-24e7fd00-d21d-11eb-943b-89e700baa1ee.png"></code>
+<code><img alt="HTML" title="HTML" height="50" src="https://user-images.githubusercontent.com/57419630/124050480-050cc200-d9f1-11eb-9ad4-607de212ee0a.png"></code>
+<code><img alt="CSS" title="CSS" height="50" src="https://user-images.githubusercontent.com/57419630/124050477-0342fe80-d9f1-11eb-96b3-f935ebfc0924.png"></code>
 
 </p>
 
