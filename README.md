@@ -5,7 +5,7 @@
 - 🔭 In a constant search for evolution and improvement as a dev
 
 ### :mortar_board: Academic Formation
-- Análise e Desenvolvimento de Sistemas || Instuto Federal de São Paulo - Campus Votuporanga
+- Análise e Desenvolvimento de Sistemas || Instituto Federal de São Paulo - Campus Votuporanga
 
 ## 🚀💻 Technologies & Tools
  
