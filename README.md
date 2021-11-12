@@ -1,6 +1,6 @@
 <h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Hitalo Rodrigo Alves!</h3>
  
-- 🚀 Desenvolvedor Front-End em desenvolvimento
+- 🚀 Desenvolvedor Javascript em desenvolvimento
 - 🌱 Atualmente focado em melhorar minhas habilidades no ecossistema Javascript
 - 🔭 Em uma busca constante pela evolução e aprimoramento como dev
 
