@@ -29,7 +29,8 @@
  
 ### Estou interessado:
 <p>
-<code><img alt="Nodejs" title="Nodejs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="sass" /></code>
+<code><img alt="Nodejs" title="Nodejs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></code>
+<code><img alt="Express" title="Express" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" /></code>
 </p>
 
 
