@@ -8,23 +8,12 @@
 - 🌱 Atualmente focado em melhorar minhas habilidades no ecossistema Javascript
 - 🔭 Em uma busca constante pela evolução e aprimoramento como dev
 
-<br/>
 
 ### :mortar_board: Formação acadêmica
 - Análise e Desenvolvimento de Sistemas || Instituto Federal de São Paulo - Campus Votuporanga
 
-## 🛠 &nbsp; Tecnologias 
- 
-<!-- <p >
 
-<code><img alt="JavaScript" title="JS" height="48" src="https://user-images.githubusercontent.com/57419630/122698166-26b1c080-d21d-11eb-86e2-ccadcc205b50.png"></code>
-<code><img alt="HTML" title="HTML" height="50" src="https://user-images.githubusercontent.com/57419630/124050480-050cc200-d9f1-11eb-9ad4-607de212ee0a.png"></code>
-<code><img alt="CSS" title="CSS" height="50" src="https://user-images.githubusercontent.com/57419630/124050477-0342fe80-d9f1-11eb-96b3-f935ebfc0924.png"></code>
-<code><img alt="React" title="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="sass" /></code>
-<code><img alt="Nextjs" title="Nextjs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="sass" /></code>
-<code><img alt="TypesCript" title="TS" height="40" width="40" src="https://user-images.githubusercontent.com/57419630/122698162-24e7fd00-d21d-11eb-943b-89e700baa1ee.png"></code>
-<code><img alt="Sass" title="Sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" /></code>
-</p> -->
+## 🛠 &nbsp; Tecnologias 
 
 ![HTML](https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)&nbsp;
 ![CSS](https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)&nbsp;
@@ -35,16 +24,13 @@
 ![Node.js](https://camo.githubusercontent.com/a1eae878fdd3d1c1b687992ca74e5cac85f4b68e60a6efaa7bc8dc9883b71229/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465)&nbsp;
 ![Git](https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)&nbsp;
  
-<!-- ### Estou interessado:
-<p>
-<code><img alt="Nodejs" title="Nodejs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></code>
-<code><img alt="Express" title="Express" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" /></code>
-</p> -->
+ 
 ## ⚙️ &nbsp;GitHub status
 <p width="100%">
  <img width="400px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=hitaloalvess&layout=compact&theme=dark'>
  <img width="400px" src='https://github-readme-stats.vercel.app/api?username=hitaloalvess&show_icons=true&theme=dark'>
 </p>
+
 
 ## 📫 Fale comigo 👇
 
