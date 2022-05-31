@@ -1,10 +1,6 @@
 <img align="center" src="./banner.png"/>
 
 <br>
-<!-- 
-<h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Hitalo Rodrigo Alves!</h3>
- 
- <br/> -->
  
 - 🚀 Desenvolvedor Javascript em desenvolvimento
 - 🌱 Atualmente focado em melhorar minhas habilidades em Javascript, Typescript, ReactJS, NextJS, NodeJS.
