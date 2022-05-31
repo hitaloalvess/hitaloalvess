@@ -1,4 +1,4 @@
-<img align="center" src="./banner-image.png"/>
+<img align="center" src="./banner.png"/>
 
 <h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Hitalo Rodrigo Alves!</h3>
  
@@ -42,8 +42,8 @@
 </p> -->
 ## ⚙️ &nbsp;GitHub status
 <p width="100%">
- <img width="50%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=hitaloalvess&layout=compact&theme=dark'>
- <img width="50%" src='https://github-readme-stats.vercel.app/api?username=hitaloalvess&show_icons=true&theme=dark'>
+ <img width="400px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=hitaloalvess&layout=compact&theme=dark'>
+ <img width="400px" src='https://github-readme-stats.vercel.app/api?username=hitaloalvess&show_icons=true&theme=dark'>
 </p>
 
 ## 📫 Fale comigo 👇
