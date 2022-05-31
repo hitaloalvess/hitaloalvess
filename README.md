@@ -1,5 +1,7 @@
 <img align="center" src="./banner.png"/>
 
+<br>
+
 <h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Hitalo Rodrigo Alves!</h3>
  
  <br/>
@@ -8,10 +10,12 @@
 - 🌱 Atualmente focado em melhorar minhas habilidades no ecossistema Javascript
 - 🔭 Em uma busca constante pela evolução e aprimoramento como dev
 
+<br>
 
 ### :mortar_board: Formação acadêmica
 - Análise e Desenvolvimento de Sistemas || Instituto Federal de São Paulo - Campus Votuporanga
 
+<br>
 
 ## 🛠 &nbsp; Tecnologias 
 
@@ -24,6 +28,7 @@
 ![Node.js](https://camo.githubusercontent.com/a1eae878fdd3d1c1b687992ca74e5cac85f4b68e60a6efaa7bc8dc9883b71229/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465)&nbsp;
 ![Git](https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)&nbsp;
  
+ <br>
  
 ## ⚙️ &nbsp;GitHub status
 <p width="100%">
@@ -31,6 +36,7 @@
  <img width="400px" src='https://github-readme-stats.vercel.app/api?username=hitaloalvess&show_icons=true&theme=dark'>
 </p>
 
+<br>
 
 ## 📫 Fale comigo 👇
 
