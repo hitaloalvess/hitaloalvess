@@ -9,11 +9,7 @@
 - 🚀 Desenvolvedor Javascript em desenvolvimento
 - 🌱 Atualmente focado em melhorar minhas habilidades no ecossistema Javascript
 - 🔭 Em uma busca constante pela evolução e aprimoramento como dev
-
-<br>
-
-### :mortar_board: Formação acadêmica
-- Análise e Desenvolvimento de Sistemas || Instituto Federal de São Paulo - Campus Votuporanga
+- :mortar_board: Sou formado em análise e Desenvolvimento de Sistemas, pelo Instituto Federal de São Paulo - Campus Votuporanga
 
 <br>
 
