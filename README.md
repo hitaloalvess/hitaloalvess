@@ -7,7 +7,7 @@
  <br/>
  
 - 🚀 Desenvolvedor Javascript em desenvolvimento
-- 🌱 Atualmente focado em melhorar minhas habilidades no ecossistema Javascript
+- 🌱 Atualmente focado em melhorar minhas habilidades em Javascript, Typescript, ReactJS, NextJS, NodeJS.
 - 🔭 Em uma busca constante pela evolução e aprimoramento como dev
 - :mortar_board: Sou formado em análise e Desenvolvimento de Sistemas, pelo Instituto Federal de São Paulo - Campus Votuporanga
 
