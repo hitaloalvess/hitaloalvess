@@ -24,8 +24,8 @@
  
 ## ⚙️ &nbsp;GitHub status
 <p width="100%">
- <img width="400px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=hitaloalvess&layout=compact&theme=dark'>
- <img width="400px" src='https://github-readme-stats.vercel.app/api?username=hitaloalvess&show_icons=true&theme=dark'>
+ <img width="400px" height="172px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=hitaloalvess&layout=compact&theme=dark'>
+ <img width="400px" height="172px" src='https://github-readme-stats.vercel.app/api?username=hitaloalvess&show_icons=true&theme=dark'>
 </p>
 
 <br>
